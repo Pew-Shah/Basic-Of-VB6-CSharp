@@ -49,7 +49,25 @@
 
             DateTime dt = new DateTime(2015, 12, 31);
             Console.WriteLine(dt);
+            Console.WriteLine();
 
+
+            //Implicit Casting
+
+            int myInt = 9;
+            double myDouble = myInt;
+            Console.WriteLine("--Implicit Casting--");
+            Console.WriteLine("Int: " + myInt);      
+            Console.WriteLine("Double: " + myDouble);
+            Console.WriteLine();
+
+            //Explicit Casting
+
+            double myDob = 9.78;
+            int lint = (int)myDouble;
+            Console.WriteLine("--Explicit Casting--");
+            Console.WriteLine("Double: "+myDob);   
+            Console.WriteLine("Int: "+lint);
         }
     }
 }
