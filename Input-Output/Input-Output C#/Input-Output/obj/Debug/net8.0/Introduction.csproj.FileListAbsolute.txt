@@ -1,0 +1,14 @@
+C:\Users\Genius\Desktop\Introduction\Introduction\bin\Debug\net8.0\Introduction.exe
+C:\Users\Genius\Desktop\Introduction\Introduction\bin\Debug\net8.0\Introduction.deps.json
+C:\Users\Genius\Desktop\Introduction\Introduction\bin\Debug\net8.0\Introduction.runtimeconfig.json
+C:\Users\Genius\Desktop\Introduction\Introduction\bin\Debug\net8.0\Introduction.dll
+C:\Users\Genius\Desktop\Introduction\Introduction\bin\Debug\net8.0\Introduction.pdb
+C:\Users\Genius\Desktop\Introduction\Introduction\obj\Debug\net8.0\Introduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genius\Desktop\Introduction\Introduction\obj\Debug\net8.0\Introduction.AssemblyInfoInputs.cache
+C:\Users\Genius\Desktop\Introduction\Introduction\obj\Debug\net8.0\Introduction.AssemblyInfo.cs
+C:\Users\Genius\Desktop\Introduction\Introduction\obj\Debug\net8.0\Introduction.csproj.CoreCompileInputs.cache
+C:\Users\Genius\Desktop\Introduction\Introduction\obj\Debug\net8.0\Introduction.dll
+C:\Users\Genius\Desktop\Introduction\Introduction\obj\Debug\net8.0\refint\Introduction.dll
+C:\Users\Genius\Desktop\Introduction\Introduction\obj\Debug\net8.0\Introduction.pdb
+C:\Users\Genius\Desktop\Introduction\Introduction\obj\Debug\net8.0\Introduction.genruntimeconfig.cache
+C:\Users\Genius\Desktop\Introduction\Introduction\obj\Debug\net8.0\ref\Introduction.dll

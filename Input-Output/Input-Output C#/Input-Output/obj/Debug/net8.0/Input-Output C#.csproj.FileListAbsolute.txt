@@ -1,0 +1,14 @@
+C:\Users\Genius\Desktop\Input-Output C#\Introduction\bin\Debug\net8.0\Input-Output C#.exe
+C:\Users\Genius\Desktop\Input-Output C#\Introduction\bin\Debug\net8.0\Input-Output C#.deps.json
+C:\Users\Genius\Desktop\Input-Output C#\Introduction\bin\Debug\net8.0\Input-Output C#.runtimeconfig.json
+C:\Users\Genius\Desktop\Input-Output C#\Introduction\bin\Debug\net8.0\Input-Output C#.dll
+C:\Users\Genius\Desktop\Input-Output C#\Introduction\bin\Debug\net8.0\Input-Output C#.pdb
+C:\Users\Genius\Desktop\Input-Output C#\Introduction\obj\Debug\net8.0\Input-Output C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genius\Desktop\Input-Output C#\Introduction\obj\Debug\net8.0\Input-Output C#.AssemblyInfoInputs.cache
+C:\Users\Genius\Desktop\Input-Output C#\Introduction\obj\Debug\net8.0\Input-Output C#.AssemblyInfo.cs
+C:\Users\Genius\Desktop\Input-Output C#\Introduction\obj\Debug\net8.0\Input-Output C#.csproj.CoreCompileInputs.cache
+C:\Users\Genius\Desktop\Input-Output C#\Introduction\obj\Debug\net8.0\Input-Output C#.dll
+C:\Users\Genius\Desktop\Input-Output C#\Introduction\obj\Debug\net8.0\refint\Input-Output C#.dll
+C:\Users\Genius\Desktop\Input-Output C#\Introduction\obj\Debug\net8.0\Input-Output C#.pdb
+C:\Users\Genius\Desktop\Input-Output C#\Introduction\obj\Debug\net8.0\Input-Output C#.genruntimeconfig.cache
+C:\Users\Genius\Desktop\Input-Output C#\Introduction\obj\Debug\net8.0\ref\Input-Output C#.dll
