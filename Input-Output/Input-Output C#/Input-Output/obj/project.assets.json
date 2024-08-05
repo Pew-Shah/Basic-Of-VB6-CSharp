@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Genius\\Desktop\\Input-Output C#\\Introduction\\Input-Output C#.csproj",
+      "projectUniqueName": "C:\\Users\\Genius\\Desktop\\Basic-Of-VB6-CSharp\\Input-Output\\Input-Output C#\\Input-Output\\Input-Output C#.csproj",
       "projectName": "Input-Output C#",
-      "projectPath": "C:\\Users\\Genius\\Desktop\\Input-Output C#\\Introduction\\Input-Output C#.csproj",
+      "projectPath": "C:\\Users\\Genius\\Desktop\\Basic-Of-VB6-CSharp\\Input-Output\\Input-Output C#\\Input-Output\\Input-Output C#.csproj",
       "packagesPath": "C:\\Users\\Genius\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Genius\\Desktop\\Input-Output C#\\Introduction\\obj\\",
+      "outputPath": "C:\\Users\\Genius\\Desktop\\Basic-Of-VB6-CSharp\\Input-Output\\Input-Output C#\\Input-Output\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Genius\\AppData\\Roaming\\NuGet\\NuGet.Config",
