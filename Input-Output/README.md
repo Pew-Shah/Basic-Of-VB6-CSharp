@@ -1,5 +1,9 @@
 # Input and Output :
 
+
+# C# :
+
+
 ## C# Output : 
 
 In order to output something in C#, we can use
@@ -24,3 +28,41 @@ The ToInt32() and ToDouble() method of Convert class converts the string input t
 * ReadLine(): The ReadLine() method reads the next line of input from the standard input stream. It returns the same string.
 * Read(): The Read() method reads the next character from the standard input stream. It returns the ascii value of the character.
 * ReadKey(): The ReadKey() method obtains the next key pressed by user. This method is usually used to hold the screen until user press a key.
+
+
+# VB6 :
+
+
+## VB6 Output : 
+
+
+### MsgBox
+The MsgBox function shows a dialog box displaying the output value or a message.
+
+Syntax
+
+|MsgBox Prompt, [MsgBox style], [Title]|
+|--------------------------------------|
+
+
+where Promt text is the prompt message, [MsgBox Style] is the msgbox style constants and [Title] is the text displayed in the title bar of the MsgBox dialog.
+
+
+
+## VB6 Input :
+
+
+### InputBox
+InputBox is a function that prompts for user-input. InputBox shows a dialog box that inputs value from the user.
+
+Syntax
+|a=InputBox( promt, [Title], [Default], [xpos], [ypos])|
+|------------------------------------------------------|
+
+where 'a' is a variable to which the value will be assigned. The texts inside the InputBox are optional except the "prompt" text. "prompt" text is the prompt message. "title" is the title of the message box window. "Default" is the default value given by the programmer. 'xpos' and 'ypos' are the geometric positions with respect to x and y axis respectively.
+
+### Output using PictureBox
+PictureBox is also used for the output operation. The output is displayed using the Print method.
+
+### Input and output using TextBox
+The TextBox Control provides an efficient way for both input and operations.
