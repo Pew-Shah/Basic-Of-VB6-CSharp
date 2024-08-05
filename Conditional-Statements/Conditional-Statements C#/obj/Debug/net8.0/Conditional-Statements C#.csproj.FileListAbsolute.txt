@@ -1,0 +1,14 @@
+C:\Users\Genius\Desktop\Conditional-Statements C#\bin\Debug\net8.0\Conditional-Statements C#.exe
+C:\Users\Genius\Desktop\Conditional-Statements C#\bin\Debug\net8.0\Conditional-Statements C#.deps.json
+C:\Users\Genius\Desktop\Conditional-Statements C#\bin\Debug\net8.0\Conditional-Statements C#.runtimeconfig.json
+C:\Users\Genius\Desktop\Conditional-Statements C#\bin\Debug\net8.0\Conditional-Statements C#.dll
+C:\Users\Genius\Desktop\Conditional-Statements C#\bin\Debug\net8.0\Conditional-Statements C#.pdb
+C:\Users\Genius\Desktop\Conditional-Statements C#\obj\Debug\net8.0\Conditional-Statements C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genius\Desktop\Conditional-Statements C#\obj\Debug\net8.0\Conditional-Statements C#.AssemblyInfoInputs.cache
+C:\Users\Genius\Desktop\Conditional-Statements C#\obj\Debug\net8.0\Conditional-Statements C#.AssemblyInfo.cs
+C:\Users\Genius\Desktop\Conditional-Statements C#\obj\Debug\net8.0\Conditional-Statements C#.csproj.CoreCompileInputs.cache
+C:\Users\Genius\Desktop\Conditional-Statements C#\obj\Debug\net8.0\Conditional-Statements C#.dll
+C:\Users\Genius\Desktop\Conditional-Statements C#\obj\Debug\net8.0\refint\Conditional-Statements C#.dll
+C:\Users\Genius\Desktop\Conditional-Statements C#\obj\Debug\net8.0\Conditional-Statements C#.pdb
+C:\Users\Genius\Desktop\Conditional-Statements C#\obj\Debug\net8.0\Conditional-Statements C#.genruntimeconfig.cache
+C:\Users\Genius\Desktop\Conditional-Statements C#\obj\Debug\net8.0\ref\Conditional-Statements C#.dll
