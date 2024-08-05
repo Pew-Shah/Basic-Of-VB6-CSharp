@@ -27,6 +27,14 @@
 | dynamic             | 4 bytes (reference) | Any object or value type, dynamically typed                                                                |
 
 
+### Implicit Casting:
+converting a smaller type to a larger type size
+char -> int -> long -> float -> double
+
+### Explicit Casting:
+converting a larger type to a smaller size type
+double -> float -> long -> int -> char
+
 ## VB6 :
 
 
