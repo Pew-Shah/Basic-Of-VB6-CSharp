@@ -132,11 +132,11 @@ Purpose: Skips the remaining code inside the loop for the current iteration and 
 
 | **Do While** Loop                    | **Do...Loop While** Loop             |
 |--------------------------------------|--------------------------------------|
-| `Do While condition` <br> `    ' Block of one or more VB statements` <br> `Loop` | `Do` <br> `    ' Block of one or more VB statements` <br> `Loop While condition` |
+| `Do While condition` <br>     ' Block of one or more VB statements <br> `Loop` | `Do` <br>     ' Block of one or more VB statements <br> `Loop While condition` |
 
 | **Do Until** Loop                    | **Do...Loop Until** Loop             |
 |--------------------------------------|--------------------------------------|
-| `Do Until condition` <br> `    ' Block of one or more VB statements` <br> `Loop` | `Do` <br> `    ' Block of one or more VB statements` <br> `Loop Until condition` |
+| `Do Until condition` <br>     ' Block of one or more VB statements <br> `Loop` | `Do` <br>     ' Block of one or more VB statements <br> `Loop Until condition` |
 
 ### Exiting the Loop :
 
