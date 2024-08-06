@@ -1,4 +1,6 @@
-﻿namespace Arrays_C_
+﻿using System.Collections;
+
+namespace Arrays_C_
 {
     internal class Program
     {
@@ -58,6 +60,21 @@
             foreach (string z in cars)
             {
                 Console.WriteLine(z);
+            }
+
+            //dynamic arrays in C#
+
+            ArrayList al = new ArrayList();
+
+            al.Add(577);
+            al.Add(286);
+
+            Console.WriteLine("Count: {0}", al.Count);
+
+            Console.Write("List: ");
+            foreach (int g in al)
+            {
+                Console.Write(g + " ");
             }
         }
     }

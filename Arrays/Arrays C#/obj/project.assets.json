@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Genius\\Desktop\\Arrays C#\\Arrays C#.csproj",
+      "projectUniqueName": "C:\\Users\\Genius\\Desktop\\Basic-Of-VB6-CSharp\\Arrays\\Arrays C#\\Arrays C#.csproj",
       "projectName": "Arrays C#",
-      "projectPath": "C:\\Users\\Genius\\Desktop\\Arrays C#\\Arrays C#.csproj",
+      "projectPath": "C:\\Users\\Genius\\Desktop\\Basic-Of-VB6-CSharp\\Arrays\\Arrays C#\\Arrays C#.csproj",
       "packagesPath": "C:\\Users\\Genius\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Genius\\Desktop\\Arrays C#\\obj\\",
+      "outputPath": "C:\\Users\\Genius\\Desktop\\Basic-Of-VB6-CSharp\\Arrays\\Arrays C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Genius\\AppData\\Roaming\\NuGet\\NuGet.Config",
