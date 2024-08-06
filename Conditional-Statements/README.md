@@ -1,5 +1,9 @@
 # Conditional Statements:
 
+<div style="display: flex;">
+  <div style="flex: 1; padding: 10px;">
+    # Conditional Statements:
+
 ## C# :
 
 
@@ -113,10 +117,9 @@
              break;
      }
      ```
-
-#
-
-## VB6 :
+  </div>
+  <div style="flex: 1; padding: 10px; border-left: 1px solid #ccc;">
+    ## VB6 :
 
 
 | **Sr.No.** | **Statements**                   | **Description**                                                                                          |
@@ -196,3 +199,5 @@ This table provides an overview of the conditional statements in VB6, along with
            ' one or more statements
    End Select
    ```
+  </div>
+</div>
