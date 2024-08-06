@@ -1,11 +1,6 @@
-# Conditional Statements:
+# Conditional Statements
 
-<div style="display: flex;">
-  <div style="flex: 1; padding: 10px;">
-    # Conditional Statements:
-
-## C# :
-
+## C#
 
 | **Sr.No.** | **Statements**             | **Description**                                                                                          |
 |------------|----------------------------|----------------------------------------------------------------------------------------------------------|
@@ -16,111 +11,109 @@
 | 5          | `switch` Statement         | A `switch` statement allows a variable to be tested for equality against a list of values.               |
 | 6          | Nested `switch` Statements | You can use one `switch` statement inside another `switch` statement(s).                                |
 
-
-### Syntax :
-
+### Syntax:
 
 1. **`if` Statement**
 
-     ```csharp
-     if (condition)
-     {
-         // Code to execute if condition is true
-     }
-     ```
+    ```csharp
+    if (condition)
+    {
+        // Code to execute if condition is true
+    }
+    ```
 
 2. **`if...else` Statement**
- 
-     ```csharp
-     if (condition)
-     {
-         // Code to execute if condition is true
-     }
-     else
-     {
-         // Code to execute if condition is false
-     }
-     ```
+
+    ```csharp
+    if (condition)
+    {
+        // Code to execute if condition is true
+    }
+    else
+    {
+        // Code to execute if condition is false
+    }
+    ```
 
 3. **`else if` Statement**
 
-     ```csharp
-     if (condition1)
-     {
-         // Code to execute if condition1 is true
-     }
-     else if (condition2)
-     {
-         // Code to execute if condition1 is false and condition2 is true
-     }
-     else
-     {
-         // Code to execute if none of the conditions are true
-     }
-     ```
+    ```csharp
+    if (condition1)
+    {
+        // Code to execute if condition1 is true
+    }
+    else if (condition2)
+    {
+        // Code to execute if condition1 is false and condition2 is true
+    }
+    else
+    {
+        // Code to execute if none of the conditions are true
+    }
+    ```
 
 4. **Nested `if` Statements**
 
-     ```csharp
-     if (condition1)
-     {
-         if (condition2)
-         {
-             // Code to execute if both condition1 and condition2 are true
-         }
-         else
-         {
-             // Code to execute if condition1 is true but condition2 is false
-         }
-     }
-     else
-     {
-         // Code to execute if condition1 is false
-     }
-     ```
+    ```csharp
+    if (condition1)
+    {
+        if (condition2)
+        {
+            // Code to execute if both condition1 and condition2 are true
+        }
+        else
+        {
+            // Code to execute if condition1 is true but condition2 is false
+        }
+    }
+    else
+    {
+        // Code to execute if condition1 is false
+    }
+    ```
 
 5. **`switch` Statement**
-  
-     ```csharp
-     switch (variable)
-     {
-         case value1:
-             // Code to execute if variable equals value1
-             break;
-         case value2:
-             // Code to execute if variable equals value2
-             break;
-         default:
-             // Code to execute if variable does not match any case
-             break;
-     }
-     ```
+
+    ```csharp
+    switch (variable)
+    {
+        case value1:
+            // Code to execute if variable equals value1
+            break;
+        case value2:
+            // Code to execute if variable equals value2
+            break;
+        default:
+            // Code to execute if variable does not match any case
+            break;
+    }
+    ```
 
 6. **Nested `switch` Statements**
-   
-     ```csharp
-     switch (variable1)
-     {
-         case value1:
-             switch (variable2)
-             {
-                 case valueA:
-                     // Code to execute if variable1 equals value1 and variable2 equals valueA
-                     break;
-                 default:
-                     // Code to execute if variable2 does not match any case
-                     break;
-             }
-             break;
-         default:
-             // Code to execute if variable1 does not match any case
-             break;
-     }
-     ```
-  </div>
-  <div style="flex: 1; padding: 10px; border-left: 1px solid #ccc;">
-    ## VB6 :
 
+    ```csharp
+    switch (variable1)
+    {
+        case value1:
+            switch (variable2)
+            {
+                case valueA:
+                    // Code to execute if variable1 equals value1 and variable2 equals valueA
+                    break;
+                default:
+                    // Code to execute if variable2 does not match any case
+                    break;
+            }
+            break;
+        default:
+            // Code to execute if variable1 does not match any case
+            break;
+    }
+    ```
+
+---
+
+## VB6
 
 | **Sr.No.** | **Statements**                   | **Description**                                                                                          |
 |------------|----------------------------------|----------------------------------------------------------------------------------------------------------|
@@ -131,73 +124,76 @@
 | 5          | `Select Case` Statement          | A `Select Case` statement allows a variable to be tested for equality against a list of values.          |
 | 6          | Nested `Select Case` Statements  | You can use one `Select Case` statement inside another `Select Case` statement(s).                       |
 
-This table provides an overview of the conditional statements in VB6, along with their descriptions.
-
-
-### Syntax :
-
+### Syntax:
 
 1. **`If` Statement:**
-   ```vb
-   If condition Then
-       ' one or more statements
-   End If
-   ```
+
+    ```vb
+    If condition Then
+        ' one or more statements
+    End If
+    ```
 
 2. **`If...Then...Else` Statement:**
-   ```vb
-   If condition Then
-       ' one or more statements
-   Else
-       ' one or more statements
-   End If
-   ```
+
+    ```vb
+    If condition Then
+        ' one or more statements
+    Else
+        ' one or more statements
+    End If
+    ```
 
 3. **`If...Then...ElseIf...Else` Statement:**
-   ```vb
-   If condition1 Then
-       ' one or more statements
-   ElseIf condition2 Then
-       ' one or more statements
-   Else
-       ' one or more statements
-   End If
-   ```
+
+    ```vb
+    If condition1 Then
+        ' one or more statements
+    ElseIf condition2 Then
+        ' one or more statements
+    Else
+        ' one or more statements
+    End If
+    ```
 
 4. **Nested `If` Statements:**
-   ```vb
-   If condition1 Then
-       If condition2 Then
-           ' one or more statements
-       End If
-   End If
-   ```
+
+    ```vb
+    If condition1 Then
+        If condition2 Then
+            ' one or more statements
+        End If
+    End If
+    ```
 
 5. **`Select Case` Statement:**
-   ```vb
-   Select Case expression
-       Case value1
-           ' one or more statements
-       Case value2
-           ' one or more statements
-       Case Else
-           ' one or more statements
-   End Select
-   ```
+
+    ```vb
+    Select Case expression
+        Case value1
+            ' one or more statements
+        Case value2
+            ' one or more statements
+        Case Else
+            ' one or more statements
+    End Select
+    ```
 
 6. **Nested `Select Case` Statements:**
-   ```vb
-   Select Case expression1
-       Case value1
-           Select Case expression2
-               Case value2_1
-                   ' one or more statements
-               Case value2_2
-                   ' one or more statements
-           End Select
-       Case Else
-           ' one or more statements
-   End Select
-   ```
-  </div>
-</div>
+
+    ```vb
+    Select Case expression1
+        Case value1
+            Select Case expression2
+                Case value2_1
+                    ' one or more statements
+                Case value2_2
+                    ' one or more statements
+            End Select
+        Case Else
+            ' one or more statements
+    End Select
+    ```
+
+---
+
