@@ -1,0 +1,14 @@
+C:\Users\Genius\Desktop\Loops C#\obj\Debug\net8.0\Loops C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genius\Desktop\Loops C#\obj\Debug\net8.0\Loops C#.AssemblyInfoInputs.cache
+C:\Users\Genius\Desktop\Loops C#\obj\Debug\net8.0\Loops C#.AssemblyInfo.cs
+C:\Users\Genius\Desktop\Loops C#\obj\Debug\net8.0\Loops C#.csproj.CoreCompileInputs.cache
+C:\Users\Genius\Desktop\Loops C#\bin\Debug\net8.0\Loops C#.exe
+C:\Users\Genius\Desktop\Loops C#\bin\Debug\net8.0\Loops C#.deps.json
+C:\Users\Genius\Desktop\Loops C#\bin\Debug\net8.0\Loops C#.runtimeconfig.json
+C:\Users\Genius\Desktop\Loops C#\bin\Debug\net8.0\Loops C#.dll
+C:\Users\Genius\Desktop\Loops C#\bin\Debug\net8.0\Loops C#.pdb
+C:\Users\Genius\Desktop\Loops C#\obj\Debug\net8.0\Loops C#.dll
+C:\Users\Genius\Desktop\Loops C#\obj\Debug\net8.0\refint\Loops C#.dll
+C:\Users\Genius\Desktop\Loops C#\obj\Debug\net8.0\Loops C#.pdb
+C:\Users\Genius\Desktop\Loops C#\obj\Debug\net8.0\Loops C#.genruntimeconfig.cache
+C:\Users\Genius\Desktop\Loops C#\obj\Debug\net8.0\ref\Loops C#.dll
