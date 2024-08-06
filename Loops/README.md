@@ -62,24 +62,11 @@ Certainly! Here’s the syntax for each type of loop in C# with numbered example
 
 In C#, `break` and `continue` are control statements used to alter the flow of loops:
 
-#### **`break`**
+**`break`**
+Purpose: Exits the nearest enclosing loop (`for`, `while`, `do-while`, or `foreach`) immediately, skipping any remaining iterations.
 
-- **Purpose:** Exits the nearest enclosing loop (`for`, `while`, `do-while`, or `foreach`) immediately, skipping any remaining iterations.
-
-- **Syntax:**
-  ```csharp
-  break;
-  ```
-
-#### **`continue`**
-
-- **Purpose:** Skips the remaining code inside the loop for the current iteration and proceeds to the next iteration of the loop.
-
-- **Syntax:**
-  ```csharp
-  continue;
-  ```
--
+**`continue`**
+Purpose: Skips the remaining code inside the loop for the current iteration and proceeds to the next iteration of the loop.
 ---
 ---
 ## VB6 :
@@ -142,22 +129,14 @@ In C#, `break` and `continue` are control statements used to alter the flow of l
 
 #### Do Loop :
 
-a)
- Do While condition 
-  Block of one or more VB statements 
-Loop
-b)
- Do
-  Block of one or more VB statements 
- Loop While condition 
-c)
- Do Until condition 
-  Block of one or more VB statements 
- Loop 
-d)
-Do
- Block of one or more VB statements
-Loop Until condition 
+
+| **Do While** Loop                    | **Do...Loop While** Loop             |
+|--------------------------------------|--------------------------------------|
+| `Do While condition` <br> `    ' Block of one or more VB statements` <br> `Loop` | `Do` <br> `    ' Block of one or more VB statements` <br> `Loop While condition` |
+
+| **Do Until** Loop                    | **Do...Loop Until** Loop             |
+|--------------------------------------|--------------------------------------|
+| `Do Until condition` <br> `    ' Block of one or more VB statements` <br> `Loop` | `Do` <br> `    ' Block of one or more VB statements` <br> `Loop Until condition` |
 
 ### Exiting the Loop :
 
