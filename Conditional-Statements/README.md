@@ -13,9 +13,111 @@
 | 6          | Nested `switch` Statements | You can use one `switch` statement inside another `switch` statement(s).                                |
 
 
+### Syntax :
+
+
+1. **`if` Statement**
+
+     ```csharp
+     if (condition)
+     {
+         // Code to execute if condition is true
+     }
+     ```
+
+2. **`if...else` Statement**
+ 
+     ```csharp
+     if (condition)
+     {
+         // Code to execute if condition is true
+     }
+     else
+     {
+         // Code to execute if condition is false
+     }
+     ```
+
+3. **`else if` Statement**
+
+     ```csharp
+     if (condition1)
+     {
+         // Code to execute if condition1 is true
+     }
+     else if (condition2)
+     {
+         // Code to execute if condition1 is false and condition2 is true
+     }
+     else
+     {
+         // Code to execute if none of the conditions are true
+     }
+     ```
+
+4. **Nested `if` Statements**
+
+     ```csharp
+     if (condition1)
+     {
+         if (condition2)
+         {
+             // Code to execute if both condition1 and condition2 are true
+         }
+         else
+         {
+             // Code to execute if condition1 is true but condition2 is false
+         }
+     }
+     else
+     {
+         // Code to execute if condition1 is false
+     }
+     ```
+
+5. **`switch` Statement**
+  
+     ```csharp
+     switch (variable)
+     {
+         case value1:
+             // Code to execute if variable equals value1
+             break;
+         case value2:
+             // Code to execute if variable equals value2
+             break;
+         default:
+             // Code to execute if variable does not match any case
+             break;
+     }
+     ```
+
+6. **Nested `switch` Statements**
+   
+     ```csharp
+     switch (variable1)
+     {
+         case value1:
+             switch (variable2)
+             {
+                 case valueA:
+                     // Code to execute if variable1 equals value1 and variable2 equals valueA
+                     break;
+                 default:
+                     // Code to execute if variable2 does not match any case
+                     break;
+             }
+             break;
+         default:
+             // Code to execute if variable1 does not match any case
+             break;
+     }
+     ```
+
+#
+
 ## VB6 :
 
-Sure! Here is the table with descriptions of various VB6 conditional statements:
 
 | **Sr.No.** | **Statements**                   | **Description**                                                                                          |
 |------------|----------------------------------|----------------------------------------------------------------------------------------------------------|
@@ -31,7 +133,6 @@ This table provides an overview of the conditional statements in VB6, along with
 
 ### Syntax :
 
-Certainly! Here is the syntax for each type of conditional statement in VB6, presented plainly:
 
 1. **`If` Statement:**
    ```vb
