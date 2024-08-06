@@ -76,6 +76,50 @@ namespace Arrays_C_
             {
                 Console.Write(g + " ");
             }
+
+
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+
+            // user input
+            int[] array = new int[5];
+            for(int p=0; p<5; p++)
+            {
+                Console.WriteLine("Enter number : ");
+                array[p]= Convert.ToInt32(Console.ReadLine());
+
+            }
+            for(int q=0; q<5; q++)
+            {
+                Console.WriteLine("Index [{0}] = {1}",q,array[q]);
+            }
+
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+
+            // user input
+            int[,] array1 = new int[2, 2];
+            for (int p = 0; p < 2; p++)
+            {
+
+                for(int q = 0; q < 2; q++)
+                {
+                    Console.WriteLine("Enter number : ");
+                    array1[p, q] = Convert.ToInt32(Console.ReadLine());
+                }
+
+            }
+
+            for (int l = 0; l < 2; l++)
+            {
+                for (int r = 0; r < 2; r++)
+                {
+                    Console.WriteLine("Index [{0}, {1}] = {2}", l,r, array1[l, r]);
+                }
+                
+            }
         }
     }
 }
