@@ -1,0 +1,14 @@
+C:\Users\Genius\Desktop\Method C#\bin\Debug\net8.0\Method C#.exe
+C:\Users\Genius\Desktop\Method C#\bin\Debug\net8.0\Method C#.deps.json
+C:\Users\Genius\Desktop\Method C#\bin\Debug\net8.0\Method C#.runtimeconfig.json
+C:\Users\Genius\Desktop\Method C#\bin\Debug\net8.0\Method C#.dll
+C:\Users\Genius\Desktop\Method C#\bin\Debug\net8.0\Method C#.pdb
+C:\Users\Genius\Desktop\Method C#\obj\Debug\net8.0\Method C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genius\Desktop\Method C#\obj\Debug\net8.0\Method C#.AssemblyInfoInputs.cache
+C:\Users\Genius\Desktop\Method C#\obj\Debug\net8.0\Method C#.AssemblyInfo.cs
+C:\Users\Genius\Desktop\Method C#\obj\Debug\net8.0\Method C#.csproj.CoreCompileInputs.cache
+C:\Users\Genius\Desktop\Method C#\obj\Debug\net8.0\Method C#.dll
+C:\Users\Genius\Desktop\Method C#\obj\Debug\net8.0\refint\Method C#.dll
+C:\Users\Genius\Desktop\Method C#\obj\Debug\net8.0\Method C#.pdb
+C:\Users\Genius\Desktop\Method C#\obj\Debug\net8.0\Method C#.genruntimeconfig.cache
+C:\Users\Genius\Desktop\Method C#\obj\Debug\net8.0\ref\Method C#.dll
