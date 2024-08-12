@@ -155,5 +155,30 @@ public partial class PartialClass
 - **Abstract Classes**: Cannot be instantiated; meant to be inherited.
 - **Sealed Classes**: Cannot be inherited.
 - **Static Classes**: Cannot be instantiated; only contain static members.
-- **Partial Classes**: Split across multiple files.
+- **Partial Classes**: Split across multiple files
+.
+---
+
+## VB6 :
+
+
+
+### Defining a Class
+
+- **Class Declaration**: Use `Class` to define a class in a class module.
+- **Private Variables**: Declare variables inside the class to hold data.
+- **Properties**: Use `Property Get` and `Property Let` to define properties for accessing and modifying private variables.
+- **Methods**: Define methods to perform actions related to the class.
+
+### Using the Class
+
+- **Create an Instance**: Use `New` to create an object of the class.
+- **Set Properties**: Access or modify properties using `.` notation.
+- **Call Methods**: Invoke methods using `.` notation.
+- **Clean Up**: Set the object to `Nothing` when done to release resources.
+
+### Summary
+
+- **Class Definition**: Use `Class`, private variables, properties (`Get`/`Let`), and methods.
+- **Object Creation and Usage**: Create an object with `New`, set properties, call methods, and clean up.
 
