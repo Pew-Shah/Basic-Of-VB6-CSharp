@@ -177,8 +177,55 @@ public partial class PartialClass
 - **Call Methods**: Invoke methods using `.` notation.
 - **Clean Up**: Set the object to `Nothing` when done to release resources.
 
+
 ### Summary
 
 - **Class Definition**: Use `Class`, private variables, properties (`Get`/`Let`), and methods.
 - **Object Creation and Usage**: Create an object with `New`, set properties, call methods, and clean up.
+
+
+Here are the types of classes you might encounter or use in VB6:
+
+### **1. Standard Classes**
+
+- **Definition**: The most common type of class, used to encapsulate data and behavior. 
+- **Usage**: Define properties, methods, and private variables to create objects with specific functionalities.
+
+### **2. Class Modules**
+
+- **Definition**: A class module is used to define custom classes. Each class module defines one class.
+- **Usage**: Store related methods and properties in a module. Can be used to create objects with encapsulated functionality.
+
+### **3. User-Defined Types (UDTs)**
+
+- **Definition**: Although not classes in the strictest sense, UDTs allow you to define custom data structures.
+- **Usage**: Group related data elements, but do not support methods or properties. Defined using the `Type` keyword.
+
+### **4. Form Classes**
+
+- **Definition**: Forms in VB6 are also classes but are specifically used for creating user interfaces.
+- **Usage**: Design and handle user interface elements such as buttons, text boxes, and labels. Forms can also contain code to handle user interactions.
+
+### **5. Control Classes**
+
+- **Definition**: Custom controls or user controls are derived from standard VB6 controls or classes to add new functionality.
+- **Usage**: Extend or customize existing controls to create reusable components with additional properties, methods, and events.
+
+### **6. ActiveX Controls**
+
+- **Definition**: Special types of controls that are registered as COM components and can be used in various applications.
+- **Usage**: Create reusable components that can be used across different VB6 projects or even different programming environments.
+
+### Summary
+
+- **Standard Classes**: Basic classes for encapsulating data and behavior.
+- **Class Modules**: Define custom classes in VB6.
+- **User-Defined Types (UDTs)**: Custom data structures without methods or properties.
+- **Form Classes**: Used for user interface design.
+- **Control Classes**: Custom controls with additional functionality.
+- **ActiveX Controls**: Reusable components that can be used across different applications.
+
+These types provide various ways to structure and organize code in VB6, each suited to different needs and purposes in application development.
+
+
 
