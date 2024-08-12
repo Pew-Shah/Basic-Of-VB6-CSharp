@@ -1,0 +1,14 @@
+C:\Users\Genius\Desktop\Class & Obj C#\bin\Debug\net8.0\Class & Obj C#.exe
+C:\Users\Genius\Desktop\Class & Obj C#\bin\Debug\net8.0\Class & Obj C#.deps.json
+C:\Users\Genius\Desktop\Class & Obj C#\bin\Debug\net8.0\Class & Obj C#.runtimeconfig.json
+C:\Users\Genius\Desktop\Class & Obj C#\bin\Debug\net8.0\Class & Obj C#.dll
+C:\Users\Genius\Desktop\Class & Obj C#\bin\Debug\net8.0\Class & Obj C#.pdb
+C:\Users\Genius\Desktop\Class & Obj C#\obj\Debug\net8.0\Class & Obj C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genius\Desktop\Class & Obj C#\obj\Debug\net8.0\Class & Obj C#.AssemblyInfoInputs.cache
+C:\Users\Genius\Desktop\Class & Obj C#\obj\Debug\net8.0\Class & Obj C#.AssemblyInfo.cs
+C:\Users\Genius\Desktop\Class & Obj C#\obj\Debug\net8.0\Class & Obj C#.csproj.CoreCompileInputs.cache
+C:\Users\Genius\Desktop\Class & Obj C#\obj\Debug\net8.0\Class & Obj C#.dll
+C:\Users\Genius\Desktop\Class & Obj C#\obj\Debug\net8.0\refint\Class & Obj C#.dll
+C:\Users\Genius\Desktop\Class & Obj C#\obj\Debug\net8.0\Class & Obj C#.pdb
+C:\Users\Genius\Desktop\Class & Obj C#\obj\Debug\net8.0\Class & Obj C#.genruntimeconfig.cache
+C:\Users\Genius\Desktop\Class & Obj C#\obj\Debug\net8.0\ref\Class & Obj C#.dll
